@@ -2,6 +2,11 @@
 
 [Zobacz moją stronę](https://piotr46.github.io/)
 
+[SecureBERT Repozytorium](https://github.com/Piotr46/SecureBERT)
+
+[Artykuł "SecureBERT: A Domain-Specific Language Model for Cybersecurity"](https://paperswithcode.com/paper/language-model-for-text-analytic-in)
+
+
 Jestem studentem cyberbezpieczeństwa na AGH, gdzie zgłębiam tajniki bezpieczeństwa cyfrowego i ochrony danych.
 
 ## Moje zainteresowania
