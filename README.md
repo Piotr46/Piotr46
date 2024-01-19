@@ -13,9 +13,6 @@ Jestem studentem cyberbezpieczeństwa na AGH, gdzie zgłębiam tajniki bezpiecze
 - **Sztuki walki**: Pasjonuję się różnymi formami sztuk walki, co pomaga mi utrzymać równowagę między życiem zawodowym a prywatnym, a także pozwala na rozwijanie dyscypliny i siły charakteru.
 - **Piłka nożna**: W wolnych chwilach lubię grać w piłkę nożną oraz śledzić najnowsze rozgrywki. Jest to doskonały sposób na relaks i utrzymanie kondycji fizycznej.
 
-## Rozwój osobisty i nauka
-Wierzę, że ciągłe uczenie się i rozwijanie nowych umiejętności są kluczem do sukcesu w każdej dziedzinie życia. Jestem zwolennikiem podejścia life-long learning i staram się nieustannie poszerzać swoje horyzonty.
-
 ## Technologia i innowacje
 Interesuje mnie, jak nowe technologie, takie jak sztuczna inteligencja i uczenie maszynowe, zmieniają świat i tworzą nowe możliwości w dziedzinie cyberbezpieczeństwa.
 
